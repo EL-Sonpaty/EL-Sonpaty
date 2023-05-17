@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Ahmed Salah EL-Sonpaty <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
 
 <p>Software developer 👨‍💻 currently learning to become a well-rounded software developer and a solution provider, especially as a full-stack .NET developer. I am also considered an AEC software engineer, and I have a passion for reading about new things in software development and sharing knowledge with my team, Obsessed with finding challenges.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmohamed22&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EL-Sonpaty&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
 
 ## 💫 About Me:
 
