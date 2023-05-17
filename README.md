@@ -60,7 +60,7 @@ Ahmed Salah EL-Sonpaty <img src="https://github.com/TheDudeThatCode/TheDudeThatC
 
 ## You can reach me here
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahmed.sonpaty99@eng-st.cu.edu.eg)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sonpaty99@eng-st.cu.edu.eg)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-salah-455839151/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/desertfox018a/)
 
