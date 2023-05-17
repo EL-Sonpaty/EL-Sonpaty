@@ -22,11 +22,9 @@ Ahmed Salah EL-Sonpaty <img src="https://github.com/TheDudeThatCode/TheDudeThatC
 
 ## 💫 About Me:
 
-- 🌱 I'm currently learning to become a Full Stack developer using .NET technologies.
+- 🌱 I'm currently learning to become a Full Stack developer using .NET technologies such as (MVC, Web API, etc)
 - 🌱 I'm also learning the AEC APIs like: AutoCAD API, Revit API, SAP API, Tekla API and Navis Works API.
-- 🌱 I'm also learning OpenGL, WebGL, and Three.JS.
 - 🔭 I’m currently training at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
-- ⚡ I enjoy football and graphic designing.
 
 ## 🔭 Languages and Tools:
 
