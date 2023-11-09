@@ -1,58 +1,23 @@
-___
-Job details
-Tekla API tool - Pa Door
-CAD Posted Sep 30, 2023
--See the attached doc file for description of tool.
--Example model is attached
--Tekla 2020, Australasian environment
--Dll plugin and the C# source code is issued for the job
 
 
-Your proposed terms
-Client's budget: $900.00
-How do you want to be paid?
-By milestone
-1. Deliver JAMB and Piers
-Due
-Oct 18, 2023
-Amount
-$500.00
-2. Deliver PA DOOR API TOOL+ Take Feedback
-Due
-Oct 25, 2023
-Amount
-$300.00
-3. Deliver Final Project
-Due
-Nov 2, 2023
-Amount
-$100.00
-Total price of project
-This includes all milestones, and is the amount your client will see.
-$900.00
-You'll Receive
-The estimated payment, after service fees.
-$810.00
-Boosted proposal
-Cover Letter
+I hope this message finds you well. I'm thrilled to have the opportunity to propose my services for the development of the Revit API tool as described in the provided Job Description.
 
 
-I hope this message finds you well. I'm thrilled to have the opportunity to propose my services for the development of the Tekla API tool as described in the provided documents.
+I am a Civil Engineer with a specialization in Software Development, and I bring extensive expertise in C# development, particularly in the context of construction software APIs. Over the years, I have successfully utilized APIs for various construction software applications, including AutoCAD, Revit, Navisworks, SAP2000, and Tekla Structures. My experience in combining engineering knowledge with software development skills uniquely positions me to excel in delivering the Revit API tool you require.
 
 
-I am a Civil Engineer with a specialization in Steel Structures, and I bring extensive expertise in C# development, particularly in the context of construction software APIs. Over the years, I have successfully utilized APIs for various construction software applications, including AutoCAD, Revit, Navisworks, SAP2000, and Tekla Structures. My experience in combining engineering knowledge with software development skills uniquely positions me to excel in delivering the Tekla API tool you require.
+I have reviewed the Job Description, including the Pipe example you have mentioned. I have a comprehensive understanding of your project's requirements and objectives. Rest assured; I am fully committed to delivering a solution that precisely aligns with your needs.
 
 
-I have reviewed the attached documents, including the documentation file and the Tekla model. I have a comprehensive understanding of your project's requirements and objectives. Rest assured; I am fully committed to delivering a solution that precisely aligns with your needs.
-
-
-Allow me to highlight one of my recent projects in Tekla API development. I designed a Tekla plugin that functioned as a Connection Mapper. This plugin gathered all data related to connection clashes and seamlessly exported it into an Excel format. This innovative tool provided Connection Design Engineers with the precise information required to identify duplicated connections efficiently.
+Allow me to highlight one of my recent projects in Revit API development. I designed a Revit plugin that functioned as an Auto Dimensions Tool. This plugin gathered all data related to Drawn Elements and then applied dimensions on them. The Tool also included Importing Custom Grids from Excel Sheets and 
+Integration between AutoCAD into Revit as it Converted Columns into 3D Families in Revit.
 
 
 I propose a systematic approach to this project. I will commence by developing a user-friendly WPF Dialog User Interface (UI) that ensures a seamless user experience. Subsequently, I will work on each attribute to guarantee flawless functionality.
+you can either feed the UI Dialog Box with the Required data or we can agree on an Excel format you give to the UI and then the tool will produce an Excel file including all Pipes , Valves and Tees with each one having its length/number and the cost of each and finally you will have the Total Cost in the End of the Table if you prefer a different approach to the Final Results I we can agree on it.
 
 
-I estimate that this project can be completed within a timeframe of 30 days. During this period, I plan to deliver the Jamps and Piers components within 18 days, followed by the rest of the core logic of the tool within a week. The final week will be dedicated to addressing any issues, feedback, or additional requirements you may have. Throughout the development process, I will maintain open communication with you to accommodate any changes or enhancements you desire.
+I estimate that this project can be completed within a timeframe of 21 days. During this period, I plan to deliver the Dialog Box combined with the Final Excel Output Scheme within a week, followed by the rest of the core logic of the tool within a week. The final week will be dedicated to addressing any issues, feedback, or additional requirements you may have. Throughout the development process, I will maintain open communication with you to accommodate any changes or enhancements you desire.
 
 I am genuinely excited about the prospect of collaborating with you on this project. Your vision aligns perfectly with my skill set, and I am dedicated to ensuring its successful realization.
 
@@ -63,5 +28,4 @@ Warm regards,
 [Ahmed Salah]
 [https://www.linkedin.com/in/ahmed-salah-455839151/]
 
- Screenshot+2023-10-01+173634.png(317 KB)
-About the client
+
