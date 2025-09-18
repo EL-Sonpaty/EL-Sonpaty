@@ -40,18 +40,6 @@ My work blends domain knowledge (analysis/design workflows) with modern .NET to 
 - **Bentley:** STAAD.Pro OpenSTAAD  
 - **Trimble:** Tekla Open API (automation, drawings, BOMs)
 
-> I create connectors, exporters, batch processors, and validation scripts to bridge analysis models and documentation.
-
----
-
-## 📌 Highlights (examples)
-
-- **SAP2000/ETABS Batch Runner:** Automates model runs, extracts envelopes, exports reports (CSV/Excel/PDF).
-- **Revit ↔️ CSI Sync:** Push/pull member properties and loads; mismatch checks with summary reports.
-- **Tekla Drawing Toolkit:** Batch title block updates, revision management, and PDF publishing with naming rules.
-- **AutoCAD Utilities:** Layer/blocks cleanup, sheet set auto-publishing, and BOM extraction.
-
-*(DM for demos or sample GIFs.)*
 
 ---
 
